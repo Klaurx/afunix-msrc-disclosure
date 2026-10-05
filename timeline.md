@@ -20,6 +20,11 @@ Included in the original submission:
 - Binary SHA256, PDB GUID, function offsets, affected field offsets
 - Honest disclosure of what was and was not demonstrated
 
+  To be clear, i mentioned multiple times, ceiling is UNKNOWN, i went only as far as a DoS, nothing more nothing less. 
+  I proved X object is reaching Y object using Z which it shouldn't be able to do. I NEVER claimed this was anything more, mentioned multiple times in my MSRC report as well. 
+  But at the end of the day, its still a bug, it's still a boundary violation, it's still DoS which is a valid bug. 
+  Instead, they want exploit code disguised as "PoC" which is just sad, nothing more.
+
 ## MSRC response
 
 First response, boilerplate asking for a proof of concept:
